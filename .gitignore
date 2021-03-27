@@ -1,0 +1,10 @@
+.vs/
+Library/
+Logs/
+obj/
+Packages/
+UserSettings/
+
+RTTKartoffelJagdGame/.vsconfig
+RTTKartoffelJagdGame/RTTKartoffelJagdGame.sln
+RTTKartoffelJagdGame/Assembly-CSharp.csproj
